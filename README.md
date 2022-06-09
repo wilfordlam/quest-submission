@@ -57,5 +57,11 @@ Script
 ![image](https://user-images.githubusercontent.com/106781723/172955179-f4d7c2ee-33f8-4edc-97e9-b16efd72913f.png)
 
 3. The foreced unwrap operator will obtain the value of an optional if it exsists
+In the first instance below, the return value is an optional type without the forced unwrap at the end of the script. In the second image, the foreced unwrap was indicated so we are fore-unwrapping the optional
+
+![image](https://user-images.githubusercontent.com/106781723/172957654-20b2c388-7fe6-44e7-a848-3f94d6e8283e.png)
+![image](https://user-images.githubusercontent.com/106781723/172957702-7fde3322-6db5-43a2-b615-1cd333420eec.png)
+
+4. The error indicates that there is a TYPE mismatch because it expected STRING but it got the optional STRING? This is beacuse the default setting is for an OPTIONAL type. This error can be amended via a fored-unwrap operator by putting "!" at the end of line 3. Now, there are no errors :)
 
 
