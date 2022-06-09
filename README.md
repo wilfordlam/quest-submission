@@ -46,3 +46,16 @@ Transaction
 Script
 
 ![image](https://user-images.githubusercontent.com/106781723/172933046-8ccec537-de69-4620-a3ad-e4c06adc019d.png)
+
+## Chapter 2 Day 3
+1. 3 names of Kobe, Hamilton, and Nadal were ran in a script
+
+![image](https://user-images.githubusercontent.com/106781723/172954951-d50b21e5-2626-41f3-9120-1ce5bb9ed6b8.png)
+
+2. Matching social media platform to usage
+
+![image](https://user-images.githubusercontent.com/106781723/172955179-f4d7c2ee-33f8-4edc-97e9-b16efd72913f.png)
+
+3. The foreced unwrap operator will obtain the value of an optional if it exsists
+
+
