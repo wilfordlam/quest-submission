@@ -1,4 +1,4 @@
-# Quest-submission
+# Emerald DAO Academy Quest-submission
 
 ## Chapter 1 Day 1
 1. Blockchain ia a open, decentralized, share database that allows for information to be viewed publicly. The 2 largest blockchians by market cap are Bitcoin and Ethereum. In this cousrse we will focus on the FLOW blockchain that powers then entire FLOW ecosystem and it's dApps
