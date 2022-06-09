@@ -41,7 +41,7 @@ New Contract
 
 Transaction
 
-![image](https://user-images.githubusercontent.com/106781723/172932943-2467ab27-92e8-4c84-bdf5-ddd1e3e38f3c.png)
+![image](https://user-images.githubusercontent.com/106781723/172933217-2f580abc-4c19-4f28-8bab-a8d9299946ec.png)
 
 Script
 
