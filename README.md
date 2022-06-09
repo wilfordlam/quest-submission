@@ -21,3 +21,11 @@
 5. Resources are KEY! It unlocks a layer of composability that is just not present within other EVM options, making it a perfect fit for digital assets. By labelling something as a "Resource", this lets the network know that this data structure represents something of tangible value and all code that interacts with this "Resource" is required to follow a set of strict rules.
 
 ### I'm super bullish on FLOW and actually wrote a short blog. Feel free to check it out :) https://wilfordlam.medium.com/flow-sleeping-giant-f25b7aecb9aa
+
+## Chapter 2 Day 1
+Deploying the JacobTucker Contract
+![image](https://user-images.githubusercontent.com/106781723/172920446-86e4bc41-0c01-4334-a98d-162daa607e67.png)
+
+Checking the variable through execution of a script
+![image](https://user-images.githubusercontent.com/106781723/172920542-793efaea-7c95-4364-8442-f69fb69b6856.png)
+
