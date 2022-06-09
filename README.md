@@ -24,6 +24,7 @@
 
 ## Chapter 2 Day 1
 Deploying the JacobTucker Contract
+
 ![image](https://user-images.githubusercontent.com/106781723/172920446-86e4bc41-0c01-4334-a98d-162daa607e67.png)
 
 Checking the variable through execution of a script
