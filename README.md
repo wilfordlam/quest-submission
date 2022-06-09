@@ -30,3 +30,8 @@ Deploying the JacobTucker Contract
 Checking the variable through execution of a script
 ![image](https://user-images.githubusercontent.com/106781723/172920542-793efaea-7c95-4364-8442-f69fb69b6856.png)
 
+## Chapter 2 Day 2
+1. When modifying a script, it does not modify the state of the contract. Here, we wanted to modify the state of our contract by changing our "greeting" field to be comething other than "Hello, World!". A script is used to view the results but cannot actually change anything about the transaction or the contract on the blockchain.
+2. "AuthAccount" is type that allows the user to access the data in their account. As the user, you are authorizing the transaciton to take place in your account and access the data in your account.
+3. "Prepare" is the phase where the transaction acesses the data in your account. Whereas, the "execute" phase calls the function to modiy the data on the blockchain. 
+4. 
