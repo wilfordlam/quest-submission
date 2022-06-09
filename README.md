@@ -35,3 +35,6 @@ Checking the variable through execution of a script
 2. "AuthAccount" is type that allows the user to access the data in their account. As the user, you are authorizing the transaciton to take place in your account and access the data in your account.
 3. "Prepare" is the phase where the transaction acesses the data in your account. Whereas, the "execute" phase calls the function to modiy the data on the blockchain. 
 4. 
+New Contract
+![image](https://user-images.githubusercontent.com/106781723/172932717-ddca4620-6bb5-4e62-99ec-55af82f3c41b.png)
+
