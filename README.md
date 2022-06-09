@@ -36,5 +36,13 @@ Checking the variable through execution of a script
 3. "Prepare" is the phase where the transaction acesses the data in your account. Whereas, the "execute" phase calls the function to modiy the data on the blockchain. 
 4. 
 New Contract
+
 ![image](https://user-images.githubusercontent.com/106781723/172932717-ddca4620-6bb5-4e62-99ec-55af82f3c41b.png)
 
+Transaction
+
+![image](https://user-images.githubusercontent.com/106781723/172932943-2467ab27-92e8-4c84-bdf5-ddd1e3e38f3c.png)
+
+Script
+
+![image](https://user-images.githubusercontent.com/106781723/172933046-8ccec537-de69-4620-a3ad-e4c06adc019d.png)
