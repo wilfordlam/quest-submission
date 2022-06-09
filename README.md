@@ -64,4 +64,18 @@ In the first instance below, the return value is an optional type without the fo
 
 4. The error indicates that there is a TYPE mismatch because it expected STRING but it got the optional STRING? This is beacuse the default setting is for an OPTIONAL type. This error can be amended via a fored-unwrap operator by putting "!" at the end of line 3. Now, there are no errors :)
 
+## Chapter 2 Day 4
+Combined 1-3
+
+![image](https://user-images.githubusercontent.com/106781723/172963899-7467b228-b18c-4457-ad41-b73c5744ebb0.png)
+
+Add a transaction to call that function in Step 3
+
+![image](https://user-images.githubusercontent.com/106781723/172964001-cb85309d-143b-4e12-9568-80ca5c3a496e.png)
+
+Add a script to read the Struct you defined
+
+![image](https://user-images.githubusercontent.com/106781723/172964099-5929e14b-3692-4675-90bd-1582d67f271b.png)
+
+
 
