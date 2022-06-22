@@ -96,3 +96,5 @@ Add a script to read the Struct you defined
 - Code should say let myJacob <- create Jacob()
 - Missing the "move" operator "<-" after "return"
 
+## Chapter 3 Day 2
+![image](https://user-images.githubusercontent.com/106781723/175169461-2da77ac4-54ac-429a-87d7-28439fb2d14b.png)
