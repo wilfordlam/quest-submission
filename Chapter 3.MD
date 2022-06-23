@@ -19,3 +19,6 @@
 
 ## Chapter 3 Day 2
 ![image](https://user-images.githubusercontent.com/106781723/175169461-2da77ac4-54ac-429a-87d7-28439fb2d14b.png)
+
+## Chapter 3 Day 3
+![image](https://user-images.githubusercontent.com/106781723/175360136-380488ac-b88b-4c3a-baa1-11079dfeb4ea.png)
